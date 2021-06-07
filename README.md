@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @srivarthan
 
-- 👀 I’m interested in ***Machine Learning Data Science***
+- 👀 I’m interested in ***Machine Learning & Data Science***
 
 - 🌱 I’m currently learning ***Deep Learning***
 
